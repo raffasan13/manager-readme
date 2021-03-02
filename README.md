@@ -13,7 +13,7 @@ This readme is aimed to serve as a preview, a brief introduction on my managemen
 ### Next
 ---
 
-- [One of my favorite quotes.](#Hi-there!-I'm-Rafa-Sánchez!)
+- [One of my favorite quotes.](#Hi-there!-I'm-Rafa-Sánchez!-:nerd_face:)
 - [What is all of this about?](#What-is-all-of-this-about)
   - Second item
 - [What is comming next?](#Next)
