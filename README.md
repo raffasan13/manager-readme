@@ -1,4 +1,4 @@
-### Hi there! I'm Rafa Sánchez! :nerd_face:
+### Hi there! I'm Rafa Sánchez!
 ---
 >   _"You don't hire for skills,
 >   you hire for attitude because
@@ -13,7 +13,7 @@ This readme is aimed to serve as a preview, a brief introduction on my managemen
 ### Next
 ---
 
-- [One of my favorite quotes.](#Hi-there!-I'm-Rafa-Sánchez!-:nerd_face:)
+- [One of my favorite quotes.](#Hi-there!-I'm-Rafa-Sánchez!)
 - [What is all of this about?](#What-is-all-of-this-about)
   - Second item
 - [What is comming next?](#Next)
