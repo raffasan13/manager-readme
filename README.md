@@ -10,15 +10,10 @@
 ---
 This readme is aimed to serve as a preview, a brief introduction on my management philosophy, my leadership style, my believes and what it inspires me to continue growing, and learning, and doing what I love and what I'm passioned about: the creation process of Digital Products throught the use of tools that contribute to meaningful innovation.
  
-## Next
+### Next
 ---
 
-<!--
-**raffasan13/raffasan13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
-
-- One of my favorite quotes.
+- [One of my favorite quotes.](#Hi-there!-I'm-Rafa-Sánchez!)
 - [What is all of this about?](#What-is-all-of-this-about)
   - Second item
 - [What is comming next?](#Next)
