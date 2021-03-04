@@ -18,6 +18,15 @@
   - [Profesional Interests](#Profesional-Interests)
   - [Personal Interests](#Personal-Interests)
 - [On my engineering management](#On-my-engineering-management)
+  - [People working with people](#People-working-with-people)
+  - [Core values](#Core-values)
+  - [Build trust](#Build-trust)
+  - [Motivation as a tool](#Motivation-as-a-tool)
+  - [Empowerment teams](#Empowerment-teams)
+  - [Setting the expectations](#Setting-the-expectations)
+  - [Mindfulness and Wellness](#Mindfulness-and-Wellness)
+  - [Never stop learning](#Never-stop-learning)
+  - [Empathy is not exclusive to Desing Thinking](#Empathy-is-not-exclusive-to-Desing-Thinking)
 - [What is comming next?](#What-is-comming-next)
 
 
@@ -49,7 +58,7 @@ I am a big fan of "Bricolage" or better known as DIY _(Do It Yourself)_. I love 
 > "The user never makes a mistake, if it does it is a bad design".
 > 
 ***
-  * #### People working wiht people
+  * #### People working with people
   I strongly believe that companies that care a lot about their collaborators are even most successful than others! The reason why I strongly believe this is simple: we are not robots or just "human resources". We are also emotional living beings with lacks and fulfillment, so I opt for cultivating a proper environment to take care of each other and grow together as a team.
   * #### Core values
   I will always pursue the respect as the base of the human relationships
@@ -58,6 +67,8 @@ I am a big fan of "Bricolage" or better known as DIY _(Do It Yourself)_. I love 
   * #### Empowerment teams
   * #### Setting the expectations
   * #### Mindfulness and Wellness
+  * #### Never stop learning
+  * #### Empathy is not exclusive to Desing Thinking
 
 ***
 ### :round_pushpin: What is comming next
