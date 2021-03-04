@@ -7,9 +7,10 @@
 >     Simon Sinek.
 >     
 
-### :round_pushpin: Jump to...
-
 ***
+### :round_pushpin: Jump to...
+***
+
 - [One of my favorite quotes.](#Hi-there-Rafas-Manager-Readme)
 - [What is all of this about?](#What-is-all-of-this-about)
   - Second item
@@ -19,72 +20,52 @@
   - [Personal Interests](#Personal-Interests)
 - [On my engineering management](#On-my-engineering-management)
 - [What is comming next?](#What-is-comming-next)
-  - [x] Start coding on RoR. Exploring also, <_Rubocop & Rspec_>
-  - [ ] Dive deeply on Data Science.
+
+
 ***
 ### :round_pushpin: What is all of this about?
 ---
 This readme is aimed to serve as a preview, a brief introduction on my management philosophy, my leadership style, my believes and what it inspires me to continue growing, and learning, and doing what I love and what I'm passioned about: the creation process of Digital Products throught the use of tools that contribute to meaningful innovation.
  
-
+***
 ### :round_pushpin: About me
 --- 
 
-#### Background
-
-I have studied computer science and I have been dedicated to Software Development since 2005 and lately I'have been a bit far from coding _which I really miss_, for management tasks, deddicating my time and energy to build that _mitic_ concept of "High Performance Teams" to real life.
+  * #### Background
+   I have studied computer science and I have been dedicated to Software Development since 2005 and lately I'have been a bit far from coding _which I really miss_, for management tasks, deddicating my time and energy to build that _mitic_ concept of "High Performance Teams" to real life.
 
   * #### Profesional Interests
-
    Sometimes I feel the famous FoMo, _(Fear of Missing Out)_ referring to Tech Industry, so to avoid it, I really love to dive into trends and surveys about tools and most popular programming languages, new launching. 
 I also love to learn from tech innovation and disruptive business.
 
 Recently I was introduced to a whole new concept, _at least new for me_, and way to perceive and appreciate the art of coding, called Software Craftsman. That's the reason why I am starting to navigate into that wide deep perception of creating software that will become an incredibly and amazing and maintainable Digital Product.
 
-#### Personal Interests
-
-One of the activities that I enjoy the most, is cooking but if it is on a grill even better! I took it seriously, and I started to learn different techniques such as low & slow, fire management, cooking terms and tooling around grilling. At the end grilling is intimately related to software development, due to start creating from scratch, following a process of creation, certain techniques to achieve expectations and engagement from your users are needed besides, it will constantly iterate in the search of improvement.
+  * #### Personal Interests
+   One of the activities that I enjoy the most, is cooking but if it is on a grill even better! I took it seriously, and I started to learn different techniques such as low & slow, fire management, cooking terms and tooling around grilling. At the end grilling is intimately related to software development, due to start creating from scratch, following a process of creation, certain techniques to achieve expectations and engagement from your users are needed besides, it will constantly iterate in the search of improvement.
 
 I am a big fan of "Bricolage" or better known as DIY _(Do It Yourself)_. I love motor sports, specially Formula One. I used to follow soccer very closely but now only world competitions. Yoga is another of my "guilty pleasures", unfortunately I left it aside for a while, but I am committed to reactivate it in the short term.
 
+***
 ### :round_pushpin: On my engineering management
 ***
+  * #### Core values
+  * #### Build trust
+  * #### Empowerment teams
+  * #### Setting the expectations
+  * #### Mindfulness and Wellness
 
+***
 ### :round_pushpin: What is comming next
 ---
 
+This is a personal list of a few goals I want to start working on: 
+  - [x] Start coding on RoR. Exploring also, <_Rubocop & Rspec_>
+  - [ ] Dive deeply on Data Science.
 
----
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
-<!--
-About me
-Background
-Personal interests
-On engineering management
-Ownership and autonomy
-Fulfillment and self-actualization
-Learning and growth
-Integrity
-Home is for home life
-One-on-ones
-Empathy between engineers and business stakeholders
-Communication
-Slack
-Email
-On feedback
-Things I haven't worked out yet
-How to best balance software implementation with other work
-How to best pay down conceptual, technical and product debt
--->
-
-### :round_pushpin: You can find me on:
 ***
+### :round_pushpin: How to reach me:
+***
+
 - [LinkedIn](https://www.linkedin.com/in/rafael-sanchez-salazar/)
 
 <!--
