@@ -12,7 +12,7 @@
 ***
 
 - [One of my favorite quotes.](#Hi-there-Rafas-Manager-Readme)
-- [What is all of this about?](#What-is-all-of-this-about)
+- [What is all of this about?](#round_pushpin-What-is-all-of-this-about)
 - [About me](#round_pushpin-about-me)
   - [Background](#Background)
   - [Profesional Interests](#Profesional-Interests)
