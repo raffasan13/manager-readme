@@ -10,14 +10,14 @@
 ### Jump to...
 
 ***
-- [:one: One of my favorite quotes.](#Hi-there-Rafas-Manager-Readme)
-- [:two: What is all of this about?](#What-is-all-of-this-about)
+- [:one:  One of my favorite quotes.](#Hi-there-Rafas-Manager-Readme)
+- [:two:  What is all of this about?](#What-is-all-of-this-about)
   - Second item
-- [:three: About me](#about-me)
+- [:three:  About me](#about-me)
   - [Background](#Background)
   - [Profesional Interests](#Profesional-Interests)
   - [Personal Interests](#Personal-Interests)
-- [On my engineering management](#On-my-engineering-management)
+- [:four:  On my engineering management](#On-my-engineering-management)
 - [What is comming next?](#What-is-comming-next)
   - [x] Start coding on RoR. Exploring also, <_Rubocop & Rspec_>
   - [ ] Dive deeply on Data Science.
