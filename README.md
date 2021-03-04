@@ -7,28 +7,28 @@
 >     Simon Sinek.
 >     
 
-### Jump to...
+### :round_pushpin: Jump to...
 
 ***
-- [:one:  One of my favorite quotes.](#Hi-there-Rafas-Manager-Readme)
-- [:two:  What is all of this about?](#What-is-all-of-this-about)
+- :one: [One of my favorite quotes.](#Hi-there-Rafas-Manager-Readme)
+- :two: [What is all of this about?](#What-is-all-of-this-about)
   - Second item
-- [:three:  About me](#about-me)
+- :three: [About me](#about-me)
   - [Background](#Background)
   - [Profesional Interests](#Profesional-Interests)
   - [Personal Interests](#Personal-Interests)
-- [:four:  On my engineering management](#On-my-engineering-management)
+- :four: [On my engineering management](#On-my-engineering-management)
 - [What is comming next?](#What-is-comming-next)
   - [x] Start coding on RoR. Exploring also, <_Rubocop & Rspec_>
   - [ ] Dive deeply on Data Science.
 ***
 
-### :pushpin: What is all of this about?
+### :round_pushpin: What is all of this about?
 ---
 This readme is aimed to serve as a preview, a brief introduction on my management philosophy, my leadership style, my believes and what it inspires me to continue growing, and learning, and doing what I love and what I'm passioned about: the creation process of Digital Products throught the use of tools that contribute to meaningful innovation.
  
 
-### :nazar_amulet: About me
+### :round_pushpin: About me
 --- 
 
 #### Background
@@ -48,7 +48,8 @@ One of the activities that I enjoy the most, is cooking but if it is on a grill 
 
 I am a big fan of "Bricolage" or better known as DIY _(Do It Yourself)_. I love motor sports, specially Formula One. I used to follow soccer very closely but now only world competitions. Yoga is another of my "guilty pleasures", unfortunately I left it aside for a while, but I am committed to reactivate it in the short term.
 
-### :pushpin: On my engineering management
+### :round_pushpin: On my engineering management
+***
 
 ### :round_pushpin: What is comming next
 ---
@@ -83,7 +84,8 @@ How to best balance software implementation with other work
 How to best pay down conceptual, technical and product debt
 -->
 
-##### You can find me on:
+### :round_pushpin: You can find me on:
+***
 - [LinkedIn](https://www.linkedin.com/in/rafael-sanchez-salazar/)
 
 <!--
