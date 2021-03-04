@@ -64,18 +64,21 @@ I am a big fan of "Bricolage" or better known as DIY _(Do It Yourself)_. I love 
 > _"The Design of Everyday Things" by Donald Norman._
 > 
 >
-I like the principles of UX and Design Thinking when they put the user in the center, in that way we can empower them and build together amazing products, that will also be maintainable.
+I like the principles of UX and Design Thinking when they put the user in the center, in that way we can empower them and build together amazing products, but also it will be maintainable and scalable.
+
 ***
+
   * #### People working with people
   I strongly believe that companies that care a lot about their collaborators are even most successful than others! The reason why I strongly believe this is simple: we are not robots or just "human resources". 
   That been said I opt for cultivating a proper environment to take care of each other and grow together as a team.
   
-  * #### Core values
-  I will always pursue the respect as the base of the human relationships. Respect reflects also the person integrity and their values.
-  
-  * #### Build trust
-  This is a work in progress process, that has to be done day by day. If we can trust each other we can grow all together, and quite often we as individual, forgot about it. Trust is also raising your hand to "confess" some mistakes and learn from them.
-  
+  * #### Core values  
+  This is a brief list of the main values I feel more identified, and I would like the whole team is convinced of but also comfortable with. As your manager be sure I will be congruent in the daily basis and create the proper environment where everybody can live those values and to not miss any of them.
+
+     * Respect. I will always pursue the respect as the base of the human relationships. Respect reflects also the person integrity and their values.
+     * Trust. Building trust is a continuous work, that has to be done day by day. If we can trust each other we can grow all together, and quite often we as individual, forgot about it. 
+     
+
   * #### Making mistakes are a good signal
   Nobody ever wants to make mistakes. From my perspective, making mistakes is sometimes a good signal that we are moving forward if and only if we are taking the lessons learned from those mistakes.
   
