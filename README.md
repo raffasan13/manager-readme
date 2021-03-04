@@ -28,6 +28,7 @@
   - [Never stop learning](#Never-stop-learning)
   - [Empathy is not exclusive to Desing Thinking](#Empathy-is-not-exclusive-to-Desing-Thinking)
 - [What is comming next?](#round_pushpin-What-is-comming-next)
+- [Reach me out](#round_pushpin-Reach-me-out)
 
 
 ***
@@ -52,6 +53,8 @@ Recently I was introduced to a whole new concept, _at least new for me_, and way
 One of the activities that I enjoy the most, is cooking but if it is on a grill even better! I took it seriously, and I started to learn different techniques such as low & slow, fire management, cooking terms and tooling around grilling. At the end grilling is intimately related to software development, due to start creating from scratch, following a process of creation, certain techniques to achieve expectations and engagement from your users are needed besides, it will constantly iterate in the search of improvement.
 
 I am a big fan of "Bricolage" or better known as DIY _(Do It Yourself)_. I love motor sports, specially Formula One. I used to follow soccer very closely but now only world competitions. Yoga is another of my "guilty pleasures", unfortunately I left it aside for a while, but I am committed to reactivate it in the short term.
+
+[:arrow_up:](#round_pushpin-jump-to...)
 
 ***
 ### :round_pushpin: On my engineering management
@@ -81,7 +84,7 @@ This is a personal list of a few goals I want to start working on:
   - [ ] Dive deeply on Data Science.
 
 ***
-### :round_pushpin: How to reach me:
+### :round_pushpin: Reach me out:
 ***
 
 - [LinkedIn](https://www.linkedin.com/in/rafael-sanchez-salazar/)
