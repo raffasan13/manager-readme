@@ -10,18 +10,24 @@
 ---
 This readme is aimed to serve as a preview, a brief introduction on my management philosophy, my leadership style, my believes and what it inspires me to continue growing, and learning, and doing what I love and what I'm passioned about: the creation process of Digital Products throught the use of tools that contribute to meaningful innovation.
  
-### Next
+
+### About me
+--- 
+
+### What is comming next
 ---
 
 - [One of my favorite quotes.](#Hi-there-Im-Rafa-Sánchez)
 - [What is all of this about?](#What-is-all-of-this-about)
   - Second item
-- [What is comming next?](#Next)
+- [About me](#about-me)
+- [What is comming next?](#What-is-comming-next)
   - [x] Learn Ruby on Rails
   - [ ] Starting coding on RoR
   - [ ] Data Science
 
 
+---
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
