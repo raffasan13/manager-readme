@@ -34,9 +34,9 @@ This readme is aimed to serve as a preview, a brief introduction on my managemen
 
 I have studied computer science and I have been dedicated to Software Development since 2005 and lately I'have been a bit far from coding _which I really miss_, for management tasks, deddicating my time and energy to build that _mitic_ concept of "High Performance Teams" to real life.
 
-#### Profesional Interests
+   #### Profesional Interests
 
-Sometimes I feel the famous FoMo, _(Fear of Missing Out)_ referring to Tech Industry, so to avoid it, I really love to dive into trends and surveys about tools and most popular programming languages, new launching. 
+   Sometimes I feel the famous FoMo, _(Fear of Missing Out)_ referring to Tech Industry, so to avoid it, I really love to dive into trends and surveys about tools and most popular programming languages, new launching. 
 I also love to learn from tech innovation and disruptive business.
 
 Recently I was introduced to a whole new concept, _at least new for me_, and way to perceive and appreciate the art of coding, called Software Craftsman. That's the reason why I am starting to navigate into that wide deep perception of creating software that will become an incredibly and amazing and maintainable Digital Product.
