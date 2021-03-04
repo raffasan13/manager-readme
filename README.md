@@ -38,7 +38,9 @@ I am a big fan of "Bricolage" or better known as DIY _(Do It Yourself)_. I love 
 - [What is all of this about?](#What-is-all-of-this-about)
   - Second item
 - [About me](#about-me)
- - [Background](#Background)
+  - [Background](#Background)
+  - [Profesional Interests](#Profesional-Interests)
+  - [Personal Interests](#Personal-Interests)
 - [What is comming next?](#What-is-comming-next)
   - [x] Start coding on RoR. Exploring also, <_Rubocop & Rspec_>
   - [ ] Dive deeply on Data Science.
