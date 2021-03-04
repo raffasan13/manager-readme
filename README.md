@@ -66,15 +66,29 @@ I am a big fan of "Bricolage" or better known as DIY _(Do It Yourself)_. I love 
 > 
 ***
   * #### People working with people
-  I strongly believe that companies that care a lot about their collaborators are even most successful than others! The reason why I strongly believe this is simple: we are not robots or just "human resources". We are also emotional living beings with lacks and fulfillment, so I opt for cultivating a proper environment to take care of each other and grow together as a team.
+  I strongly believe that companies that care a lot about their collaborators are even most successful than others! The reason why I strongly believe this is simple: we are not robots or just "human resources". 
+  That been said I opt for cultivating a proper environment to take care of each other and grow together as a team.
+  
   * #### Core values
-  I will always pursue the respect as the base of the human relationships
+  I will always pursue the respect as the base of the human relationships. Respect reflects also the person integrity and their values.
+  
   * #### Build trust
+  This is a work in progress process, that has to be done day by day. If we can trust each other we can grow all together, and quite often we as individual, forgot about it. Trust is also raising your hand to "confess" some mistakes and learn from them.
+  
+  * #### Making mistakes are a good signal
+  Nobody ever wants to make mistakes. From my perspective, making mistakes is sometimes a good signal that we are moving forward if and only if we are taking the lessons learned from those mistakes.
+  
   * #### Motivation as a tool
+  
   * #### Empowerment teams
+I value and appreciate you being proactive and acting with certain level of autonomy on your tasks.
+  
   * #### Setting the expectations
+  
   * #### Mindfulness and Wellness
+  
   * #### Never stop learning
+  
   * #### Empathy is not exclusive to Desing Thinking
 
 [:arrow_up:](#round_pushpin-jump-to)
