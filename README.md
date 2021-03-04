@@ -35,20 +35,26 @@ I have studied computer science and I have been dedicated to Software Developmen
 
   * #### Profesional Interests
   
-   Sometimes I feel the famous FoMo, _(Fear of Missing Out)_ referring to Tech Industry, so to avoid it, I really love to dive into trends and surveys about tools and most popular programming languages, new launching. I also love to learn from tech innovation and disruptive business.
+Sometimes I feel the famous FoMo, _(Fear of Missing Out)_ referring to Tech Industry, so to avoid it, I really love to dive into trends and surveys about tools and most popular programming languages, new launching. I also love to learn from tech innovation and disruptive business.
 
 Recently I was introduced to a whole new concept, _at least new for me_, and way to perceive and appreciate the art of coding, called Software Craftsman. That's the reason why I am starting to navigate into that wide deep perception of creating software that will become an incredibly and amazing and maintainable Digital Product.
 
   * #### Personal Interests
-   One of the activities that I enjoy the most, is cooking but if it is on a grill even better! I took it seriously, and I started to learn different techniques such as low & slow, fire management, cooking terms and tooling around grilling. At the end grilling is intimately related to software development, due to start creating from scratch, following a process of creation, certain techniques to achieve expectations and engagement from your users are needed besides, it will constantly iterate in the search of improvement.
+One of the activities that I enjoy the most, is cooking but if it is on a grill even better! I took it seriously, and I started to learn different techniques such as low & slow, fire management, cooking terms and tooling around grilling. At the end grilling is intimately related to software development, due to start creating from scratch, following a process of creation, certain techniques to achieve expectations and engagement from your users are needed besides, it will constantly iterate in the search of improvement.
 
 I am a big fan of "Bricolage" or better known as DIY _(Do It Yourself)_. I love motor sports, specially Formula One. I used to follow soccer very closely but now only world competitions. Yoga is another of my "guilty pleasures", unfortunately I left it aside for a while, but I am committed to reactivate it in the short term.
 
 ***
 ### :round_pushpin: On my engineering management
+> "The user never makes a mistake, if it does it is a bad design".
+> 
 ***
+  * #### People working wiht people
+  I strongly believe that companies that care a lot about their collaborators are even most successful than others! The reason why I strongly believe this is simple: we are not robots or just "human resources". We are also emotional living beings with lacks and fulfillment, so I opt for cultivating a proper environment to take care of each other and grow together as a team.
   * #### Core values
+  I will always pursue the respect as the base of the human relationships
   * #### Build trust
+  * #### Motivation as a tool
   * #### Empowerment teams
   * #### Setting the expectations
   * #### Mindfulness and Wellness
