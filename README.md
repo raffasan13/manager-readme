@@ -17,7 +17,7 @@
   - [Background](#Background)
   - [Profesional Interests](#Profesional-Interests)
   - [Personal Interests](#Personal-Interests)
-- [On my engineering management](#:round_pushpin:-On-my-engineering-management)
+- [On my engineering management](#-:round_pushpin:-On-my-engineering-management)
   - [People working with people](#People-working-with-people)
   - [Core values](#Core-values)
   - [Build trust](#Build-trust)
