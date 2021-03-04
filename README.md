@@ -6,12 +6,12 @@
 > 
 >     Simon Sinek.
 
-### What is all of this about?
+### :pushpin: What is all of this about?
 ---
 This readme is aimed to serve as a preview, a brief introduction on my management philosophy, my leadership style, my believes and what it inspires me to continue growing, and learning, and doing what I love and what I'm passioned about: the creation process of Digital Products throught the use of tools that contribute to meaningful innovation.
  
 
-### About me
+### :nazar_amulet: About me
 --- 
 
 #### Background
