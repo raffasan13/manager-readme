@@ -13,7 +13,7 @@ This readme is aimed to serve as a preview, a brief introduction on my managemen
 
 ### About me
 --- 
-I have studied computer science and I have been dedicated to Software Development since 2005 and lately I'have been a bit far from coding _which I really miss_, for management tasks, deddicating my time and energy to build that <<mitic>> concepto of High Performance Teams to real life.
+I have studied computer science and I have been dedicated to Software Development since 2005 and lately I'have been a bit far from coding _which I really miss_, for management tasks, deddicating my time and energy to build that _mitic_ concept of "High Performance Teams" to real life.
 
 ### What is comming next
 ---
