@@ -1,4 +1,4 @@
-### Hi there! I'm Rafa Sánchez!
+### Hi there! Rafa's Manager Readme!
 ---
 >   _"You don't hire for skills,
 >   you hire for attitude because
@@ -41,6 +41,7 @@ I am a big fan of "Bricolage" or better known as DIY _(Do It Yourself)_. I love 
   - [Background](#Background)
   - [Profesional Interests](#Profesional-Interests)
   - [Personal Interests](#Personal-Interests)
+- [On my engineergin management](#On-my-engineergin-management)
 - [What is comming next?](#What-is-comming-next)
   - [x] Start coding on RoR. Exploring also, <_Rubocop & Rspec_>
   - [ ] Dive deeply on Data Science.
