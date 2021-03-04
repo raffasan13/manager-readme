@@ -13,7 +13,7 @@
 
 - [One of my favorite quotes.](#Hi-there-Rafas-Manager-Readme)
 - [What is all of this about?](#What-is-all-of-this-about)
-- [About me](#about-me)
+- [About me](#round_pushpin-about-me)
   - [Background](#Background)
   - [Profesional Interests](#Profesional-Interests)
   - [Personal Interests](#Personal-Interests)
@@ -27,7 +27,7 @@
   - [Mindfulness and Wellness](#Mindfulness-and-Wellness)
   - [Never stop learning](#Never-stop-learning)
   - [Empathy is not exclusive to Desing Thinking](#Empathy-is-not-exclusive-to-Desing-Thinking)
-- [What is comming next?](#What-is-comming-next)
+- [What is comming next?](#round_pushpin-What-is-comming-next)
 
 
 ***
