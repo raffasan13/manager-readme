@@ -55,7 +55,9 @@ I am a big fan of "Bricolage" or better known as DIY _(Do It Yourself)_. I love 
 
 ***
 ### :round_pushpin: On my engineering management
-> "The user never makes a mistake, if it does it is a bad design".
+> ##### "Human error or Design error".
+> "The Design of Everyday Things".
+> by Donald Norman.
 > 
 ***
   * #### People working with people
