@@ -13,7 +13,6 @@
 
 - [One of my favorite quotes.](#Hi-there-Rafas-Manager-Readme)
 - [What is all of this about?](#What-is-all-of-this-about)
-  - Second item
 - [About me](#about-me)
   - [Background](#Background)
   - [Profesional Interests](#Profesional-Interests)
@@ -32,9 +31,11 @@ This readme is aimed to serve as a preview, a brief introduction on my managemen
 --- 
 
   * #### Background
+  *
    I have studied computer science and I have been dedicated to Software Development since 2005 and lately I'have been a bit far from coding _which I really miss_, for management tasks, deddicating my time and energy to build that _mitic_ concept of "High Performance Teams" to real life.
 
   * #### Profesional Interests
+  
    Sometimes I feel the famous FoMo, _(Fear of Missing Out)_ referring to Tech Industry, so to avoid it, I really love to dive into trends and surveys about tools and most popular programming languages, new launching. 
 I also love to learn from tech innovation and disruptive business.
 
