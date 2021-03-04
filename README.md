@@ -22,9 +22,8 @@ This readme is aimed to serve as a preview, a brief introduction on my managemen
   - Second item
 - [About me](#about-me)
 - [What is comming next?](#What-is-comming-next)
-  - [x] Learn Ruby on Rails
-  - [ ] Starting coding on RoR
-  - [ ] Data Science
+  - [x] Start coding on RoR. Exploring also, <_Rubocop & Rspec_>
+  - [ ] Dive deeply on Data Science.
 
 
 ---
