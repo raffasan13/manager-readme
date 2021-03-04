@@ -13,7 +13,23 @@ This readme is aimed to serve as a preview, a brief introduction on my managemen
 
 ### About me
 --- 
+
+#### Background
+
 I have studied computer science and I have been dedicated to Software Development since 2005 and lately I'have been a bit far from coding _which I really miss_, for management tasks, deddicating my time and energy to build that _mitic_ concept of "High Performance Teams" to real life.
+
+#### Profesional Interests
+
+Sometimes I feel the famous FoMo, _(Fear of Missing Out)_ referring to Tech Industry, so to avoid it, I really love to dive into trends and surveys about tools and most popular programming languages, new launching. 
+I also love to learn from tech innovation and disruptive business.
+
+Recently I was introduced to a whole new concept, _at least new for me_, and way to perceive and appreciate the art of coding, called Software Craftsman. That's the reason why I am starting to navigate into that wide deep perception of creating software that will become an incredibly and amazing and maintainable Digital Product.
+
+#### Personal Interests
+
+One of the activities that I enjoy the most, is cooking but if it is on a grill even better! I took it seriously, and I started to learn different techniques such as low & slow, fire management, cooking terms and tooling around grilling. At the end grilling is intimately related to software development, due to start creating from scratch, following a process of creation, certain techniques to achieve expectations and engagement from your users are needed besides, it will constantly iterate in the search of improvement.
+
+I am a big fan of "Bricolage" or better known as DIY _(Do It Yourself)_. I love motor sports, specially Formula One. I used to follow soccer very closely but now only world competitions. Yoga is another of my "guilty pleasures", unfortunately I left it aside for a while, but I am committed to reactivate it in the short term.
 
 ### What is comming next
 ---
@@ -22,6 +38,7 @@ I have studied computer science and I have been dedicated to Software Developmen
 - [What is all of this about?](#What-is-all-of-this-about)
   - Second item
 - [About me](#about-me)
+ - [Background](#Background)
 - [What is comming next?](#What-is-comming-next)
   - [x] Start coding on RoR. Exploring also, <_Rubocop & Rspec_>
   - [ ] Dive deeply on Data Science.
