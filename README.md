@@ -31,17 +31,19 @@ One of the activities that I enjoy the most, is cooking but if it is on a grill 
 
 I am a big fan of "Bricolage" or better known as DIY _(Do It Yourself)_. I love motor sports, specially Formula One. I used to follow soccer very closely but now only world competitions. Yoga is another of my "guilty pleasures", unfortunately I left it aside for a while, but I am committed to reactivate it in the short term.
 
+### On my engineering management
+
 ### What is comming next
 ---
 
-- [One of my favorite quotes.](#Hi-there-Im-Rafa-Sánchez)
+- [One of my favorite quotes.](#Hi-there-Rafas-Manager-Readme)
 - [What is all of this about?](#What-is-all-of-this-about)
   - Second item
 - [About me](#about-me)
   - [Background](#Background)
   - [Profesional Interests](#Profesional-Interests)
   - [Personal Interests](#Personal-Interests)
-- [On my engineergin management](#On-my-engineergin-management)
+- [On my engineering management](#On-my-engineering-management)
 - [What is comming next?](#What-is-comming-next)
   - [x] Start coding on RoR. Exploring also, <_Rubocop & Rspec_>
   - [ ] Dive deeply on Data Science.
