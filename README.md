@@ -17,7 +17,7 @@
   - [Background](#Background)
   - [Profesional Interests](#Profesional-Interests)
   - [Personal Interests](#Personal-Interests)
-- [On my engineering management](#On-my-engineering-management)
+- [On my engineering management](#:round_pushpin:On-my-engineering-management)
   - [People working with people](#People-working-with-people)
   - [Core values](#Core-values)
   - [Build trust](#Build-trust)
@@ -55,11 +55,9 @@ I am a big fan of "Bricolage" or better known as DIY _(Do It Yourself)_. I love 
 
 ***
 ### :round_pushpin: On my engineering management
-> ##### "Human error or Design error".
+>  "Human error or Design error".
 > 
-> "The Design of Everyday Things".
-> 
-> by Donald Norman.
+> "The Design of Everyday Things" by Donald Norman.
 > 
 ***
   * #### People working with people
