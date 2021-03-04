@@ -61,9 +61,10 @@ I am a big fan of "Bricolage" or better known as DIY _(Do It Yourself)_. I love 
 ***
 ### :round_pushpin: On my engineering management
 >  "Human error or Design error".
+> _"The Design of Everyday Things" by Donald Norman._
 > 
-> "The Design of Everyday Things" by Donald Norman.
-> 
+>
+I like the principles of UX and Design Thinking when they put the user in the center, in that way we can empower them and build together amazing products, that will also be maintainable.
 ***
   * #### People working with people
   I strongly believe that companies that care a lot about their collaborators are even most successful than others! The reason why I strongly believe this is simple: we are not robots or just "human resources". 
