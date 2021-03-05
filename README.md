@@ -77,8 +77,8 @@ That been said I opt for cultivating a proper environment to take care of each o
 
 This is a brief list of the main values I feel more identified, and I would like the whole team is convinced of but also comfortable with. As your manager be sure I will be congruent in the daily basis and create the proper environment where everybody can live those values and to not miss any of them.
   
-   - Respect. I will always pursue the respect as the base of the human relationships. Respect reflects also the person integrity and their values.
-   - Trust. Building trust is a continuous work, that has to be done day by day. If we can trust each other we can grow all together, and quite often we as individual, forgot about it. 
+  - - Respect. I will always pursue the respect as the base of the human relationships. Respect reflects also the person integrity and their values.
+  - - Trust. Building trust is a continuous work, that has to be done day by day. If we can trust each other we can grow all together, and quite often we as individual, forgot about it. 
      
 
   * #### Making mistakes are a good signal
