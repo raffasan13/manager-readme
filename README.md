@@ -106,7 +106,7 @@ I value and appreciate you being proactive and acting with certain level of auto
 
 This is a personal list of a few goals I want to start working on: 
   - [x] Start coding on RoR. Exploring also, <_Rubocop & Rspec_>
-  - [ ] Dive deeply on Data Science.
+  - [ ] Start diving on Data Science.
 
 [:arrow_up:](#round_pushpin-jump-to)
 
