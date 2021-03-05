@@ -88,7 +88,7 @@ This is a brief list of the main values I feel more identified, and I would like
   * #### Motivation as a tool
   
   * #### Empowerment teams
-I value and appreciate you being proactive and acting with certain level of autonomy on your tasks.
+I value and appreciate you being proactive and acting with certain level of autonomy on your tasks. This is a great way to empower people, and empowered people naturally makes an empowered team.
   
   * #### Setting the expectations
   
