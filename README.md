@@ -28,7 +28,7 @@
   - [Never stop learning](#Never-stop-learning)
   - [Empathy is not exclusive to Desing Thinking](#Empathy-is-not-exclusive-to-Desing-Thinking)
 - [What is comming next?](#round_pushpin-What-is-comming-next)
-- [Reach me out](#round_pushpin-Reach-me-out)
+- [Reach out to me](#round_pushpin-Reach-me-out)
 
 
 ***
