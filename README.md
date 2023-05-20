@@ -1,4 +1,4 @@
-### Hi there! Rafa's Manager Readme!
+## Hi there! Rafa's Manager Readme!
 ---
 >   _"You don't hire for skills,
 >   you hire for attitude because
