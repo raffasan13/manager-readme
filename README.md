@@ -111,10 +111,10 @@ This is a personal list of a few goals I want to start working on:
 [:arrow_up:](#round_pushpin-jump-to)
 
 ***
-### :round_pushpin: Reach me out:
+### :round_pushpin: Reach out to me:
 ***
 
-- [LinkedIn](https://www.linkedin.com/in/rafael-sanchez-salazar/)
+- [LinkedIn](http://www.linkedin.com/in/raffa-san)
 
 [:arrow_up:](#round_pushpin-jump-to)
 
